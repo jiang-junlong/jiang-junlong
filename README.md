@@ -1,6 +1,6 @@
 ### Welcome to JiangJunlong's github 👋
 
-- :mortar_board: Master's and Bachelor's in DUT (大连理工大学).
+- :mortar_board: Master's and Bachelor's in DUT([大连理工大学](https://www.dlut.edu.cn/)).
 - :microscope: Research: SLAM & Scene Representation and Understanding
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
 - :house: [Homepage](https://jiang-junlong.github.io/)   
