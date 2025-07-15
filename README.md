@@ -3,7 +3,7 @@
 - :mortar_board: Master's and Bachelor's in DUT([大连理工大学](https://www.dlut.edu.cn/)).
 - :microscope: Research: SLAM & Scene Representation and Understanding
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
-- :house: [Homepage](https://jiang-junlong.github.io/)   
+<!--  - :house: [Homepage](https://jiang-junlong.github.io/)  -->   
 <!-- :black_nib: [CSDN](https://blog.csdn.net/tfb760)  :mortar_board: [ResearchGate](https://www.researchgate.net/profile/Yan-Dong-26) -->
 - :heart: 
 Enjoy what you do~
