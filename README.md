@@ -5,8 +5,8 @@
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
 
 ### Projects 🚀
-- [CLID-SLAM](https://github.com/DUTRobot/CLID-SLAM) — RA-L 2025 | Open source  
-- [GS-SLAM](https://github.com/jiang-junlong/GS-SLAM) — Results available
+- CLID-SLAM — [RA-L 2025](https://ieeexplore.ieee.org/abstract/document/10884955) | [Open source](https://github.com/DUTRobot/CLID-SLAM)
+- GS-SLAM — [Results available](https://github.com/jiang-junlong/GS-SLAM) 
 
 <!--  
 - :house: [Homepage](https://jiang-junlong.github.io/)  
