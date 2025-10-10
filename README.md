@@ -3,8 +3,11 @@
 - :mortar_board: Master's and Bachelor's degrees from Dalian University of Technology([大连理工大学](https://www.dlut.edu.cn/)).
 - :microscope: Research: SLAM & Scene Representation and Understanding & Spatial Intelligence
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
-[Project 1](https://github.com/DUTRobot/CLID-SLAM)
-[Project 2](https://github.com/jiang-junlong/GS-SLAM)
+- 
+### 🚀 Projects
+- [**CLID-SLAM**](https://github.com/DUTRobot/CLID-SLAM)  
+- [**GS-SLAM**](https://github.com/jiang-junlong/GS-SLAM)
+- 
 <!--  
 - :house: [Homepage](https://jiang-junlong.github.io/)  
 - :heart: Enjoy what you do~
