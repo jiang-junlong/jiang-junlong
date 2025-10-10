@@ -4,9 +4,9 @@
 - :microscope: Research: SLAM & Scene Representation and Understanding & Spatial Intelligence
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
 
-### 🚀 Projects
-- [CLID-SLAM](https://github.com/DUTRobot/CLID-SLAM)  
-- [GS-SLAM](https://github.com/jiang-junlong/GS-SLAM)
+### Projects 🚀
+- [CLID-SLAM](https://github.com/DUTRobot/CLID-SLAM) — RA-L 2025 | Open source  
+- [GS-SLAM](https://github.com/jiang-junlong/GS-SLAM) — Results available
 
 <!--  
 - :house: [Homepage](https://jiang-junlong.github.io/)  
