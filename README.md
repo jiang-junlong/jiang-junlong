@@ -5,7 +5,7 @@
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
 
 ### Projects 🚀
-- CLID-SLAM [[RA-L 2025](https://ieeexplore.ieee.org/abstract/document/10884955)][[Code](https://github.com/DUTRobot/CLID-SLAM)]
+- [RA-L'25] CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specific SDF Estimation[[paper](https://ieeexplore.ieee.org/abstract/document/10884955)][[code](https://github.com/DUTRobot/CLID-SLAM)]
 - GS-SLAM — [Results available](https://github.com/jiang-junlong/GS-SLAM) 
 
 <!--  
