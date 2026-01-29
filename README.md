@@ -6,4 +6,3 @@
 
 ### Projects 🚀
 - CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specific SDF estimation, RAL, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10884955)][[code](https://github.com/DUTRobot/CLID-SLAM)]
-- GS-SLAM [[results](https://github.com/jiang-junlong/GS-SLAM)]
