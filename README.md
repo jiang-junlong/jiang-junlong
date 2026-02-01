@@ -5,4 +5,4 @@
 - :e-mail: jiangjunlong@mail.dlut.edu.cn
 
 ### Projects 🚀
-- CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM with Region-Specific SDF estimation, RAL, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10884955)][[code](https://github.com/DUTRobot/CLID-SLAM)]
+- CLID-SLAM: A Coupled LiDAR-Inertial Neural Implicit Dense SLAM With Region-Specific SDF Estimation, RAL, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10884955)][[code](https://github.com/DUTRobot/CLID-SLAM)]
