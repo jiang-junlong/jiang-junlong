@@ -1,6 +1,6 @@
 ### Welcome to JiangJunlong's github 👋
 
-- :mortar_board: M.S. and B.S. from [Dalian University of Technology (大连理工大学)](https://www.dlut.edu.cn/).
+- :mortar_board: M.S. and B.S. from [Dalian University of Technology](https://www.dlut.edu.cn/)(大连理工大学).
 - :microscope: Research: SLAM
 
 ### Projects 🚀
